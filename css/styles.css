@@ -10130,8 +10130,6 @@ section.resume-section {
   padding-top: 5rem;
   padding-bottom: 5rem;
   max-width: 75rem;
-  min-height: auto !important;
-  height: auto !important;
 }
 section.resume-section .resume-section-content {
   width: 100%;
