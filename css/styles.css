@@ -10124,19 +10124,17 @@ p.lead {
 
 section.resume-section {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   padding-left: 1rem;
   padding-right: 1rem;
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
   max-width: 75rem;
 }
 section.resume-section .resume-section-content {
   width: 100%;
 }
-.mb-5 {
-  margin-bottom: 1.5rem !important;
-}
+
 
 @media (min-width: 768px) {
   section.resume-section {
