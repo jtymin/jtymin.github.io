@@ -1,2 +1,2 @@
-# lakith-pusarla.github.io
-Personal Portfolio
+# Joshua Min's Personal Portfolio
+--> jtymin.github.io
